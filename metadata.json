@@ -1,0 +1,6 @@
+{
+  "name": "Baik-Baik Travel",
+  "description": "Private Bali tours, regional destination guides, interactive route previews, and direct WhatsApp trip inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
